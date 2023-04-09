@@ -3,6 +3,9 @@
 /workspace.xml
 
 .idea/
+.idea
+.gradle
+
 .gradle/
 build/
 settings.gradle
