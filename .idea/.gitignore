@@ -2,11 +2,22 @@
 /shelf/
 /workspace.xml
 
-ComputerNetwork/.idea/
+.idea/
+compiler.xml
+gradle.xml
+jarRepositories.xml
+jpa-buddy.xml
+misc.xml
+uiDesigner.xml
+
+
 .idea
 .gradle
 
 .gradle/
+
 build/
+
 settings.gradle
+
 resources/
