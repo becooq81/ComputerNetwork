@@ -3,21 +3,24 @@
 /workspace.xml
 
 .idea/
+
+.idea/
 compiler.xml
 gradle.xml
 jarRepositories.xml
 jpa-buddy.xml
 misc.xml
 uiDesigner.xml
+vcs.xml
 
-
-.idea
-.gradle
-
+# gradle
 .gradle/
 
+# build
 build/
 
+# settings
 settings.gradle
 
+# resources
 resources/
