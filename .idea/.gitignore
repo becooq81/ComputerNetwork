@@ -2,10 +2,11 @@
 /shelf/
 /workspace.xml
 
-.idea/
+ComputerNetwork/.idea/
 .idea
 .gradle
 
 .gradle/
 build/
 settings.gradle
+resources/
